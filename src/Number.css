@@ -1,0 +1,15 @@
+.number {
+    display: inline-flex;
+    flex: fit-content;
+    margin: 10px;
+    box-shadow: 0 2px 2px #ccc;
+    width: 50px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    display: flex;
+    float: bottom;
+}
+
